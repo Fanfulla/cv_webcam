@@ -149,7 +149,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Salvatore (Fanfulla)**
 - GitHub: [@Fanfulla](https://github.com/Fanfulla)
-- Project developed as part of AI Engineering Master's program with [Profession.AI](https://www.profession.ai/)
 
 ## 🙏 Acknowledgments
 
